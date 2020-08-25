@@ -1,0 +1,53 @@
+
+body{
+    text-align: center;
+    background-color: pink;
+}
+h1{
+    margin-top:0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 462.5%;
+    
+    
+    
+}
+h2{
+    height:80px;
+    font-size: 50px;
+}
+.top-container{
+    background-color: aliceblue;
+    background-blend-mode: color-burn;
+    background-image: url("images/cloud.jpeg");
+    background-size: cover;
+    margin: 0;
+    height:200px;
+
+    
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.myphoto{
+    height:300px;
+    width:300px;
+    
+}
+.skilling-hover{
+    height:200px;
+    width:200px;
+}
+.p{
+    text-size-adjust: 30px;
+}
+
+.top-cloud{
+    height:10px;
+}
+.contact-me{
+    background-color:blue;
+    background-blend-mode: soft-light;
+    text-align:left;
+    padding-left: 60px;
+}
